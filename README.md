@@ -28,6 +28,13 @@ This initiative addresses a growing societal need by promoting convenience, reli
 - **Responsive Design**: Built with Bootstrap for a user-friendly and responsive interface.
 
 ---
+## Screenshots
+
+### Homepage
+![Helper Hub Homepage](./images/homepage.png)
+
+### Worker Profile Page
+![Worker Profile](./images/worker-profile.png)
 
 ## Limitations
 
