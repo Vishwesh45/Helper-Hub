@@ -12,12 +12,11 @@ Helper Hub empowers professionals such as drivers, child caretakers, maids, cook
 
 ## Purpose
 
-Helper Hub aims to:
-- **Workers**: Empower undervalued professionals to independently find jobs based on their skills, leading to better financial stability and career growth.
-- **Users**: Allow users to easily search for trusted, verified professionals to handle various tasks such as household maintenance, child care, elder care, and more.
+The goal of Helper Hub is to make life easier for busy families and individuals while giving undervalued professionals the recognition and opportunities they deserve. Through this platform:
+- **Workers** can independently find jobs that match their skills, leading to better financial stability and career growth.
+- **Users** can easily search for trusted and verified professionals to handle tasks like household maintenance, child care, elder care, and more.
 
-This platform creates a meaningful connection between users and workers, making life easier for busy individuals and families while giving skilled professionals the recognition and opportunities they deserve.
-
+This initiative addresses a growing societal need by promoting convenience, reliability, and empowerment for all parties involved.
 ---
 
 ## Features
